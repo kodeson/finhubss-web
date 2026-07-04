@@ -9,7 +9,7 @@ const VerticalFeatures = () => (
   >
     <VerticalFeatureRow
       title="About"
-      description="FINHUB AC GmbH & Co KG supports the Cycling Federation as well as the Paralympic
+      description="ProStore Software Ltd supports the Cycling Federation as well as the Paralympic
       Committee of Moldova. We are contributing to the organization of various regional and
       national events and competitions for juniors, seniors, amateur, and professional athletes.
       Our strong relationship with both organizations has a significant impact on the development
