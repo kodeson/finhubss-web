@@ -21,7 +21,7 @@ const Imprint = () => {
           <img src="/icons/icon-f.svg" alt="logo" className="h-12" />
           <span style={styles.span} className="ml-12 mr-12"></span>
           <div style={styles.textContainer}>
-            <div>ProStore Software Ltd</div>
+            <div>ProStor Software Ltd</div>
             <div className="mb-2 mt-2">
               <div>Company nr. 208069356 </div>
               <div>UID (VAT)-Number: </div>
@@ -37,7 +37,7 @@ const Imprint = () => {
               <div>Vitali Chebanu, </div>
               <div>Geschäftsführer</div>
             </div>
-            <div className="mb-2 mt-2">E-mail: cob@finhubfund.com</div>
+            <div className="mb-2 mt-2">E-mail: prostoresoftware@gmail.com</div>
             <div>Phone: +359 89 5733067</div>
           </div>
         </div>
