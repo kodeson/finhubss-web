@@ -21,12 +21,12 @@ const Imprint = () => {
           <img src="/icons/icon-f.svg" alt="logo" className="h-12" />
           <span style={styles.span} className="ml-12 mr-12"></span>
           <div style={styles.textContainer}>
-            <div>Finhub AC GmbH &amp; C0 KG</div>
+            <div>ProStore Software Ltd</div>
             <div className="mb-2 mt-2">
-              <div>Company nr. FN 529227 a </div>
-              <div>UID (VAT)-Number: ATU75318826</div>
+              <div>Company nr. 208069356 </div>
+              <div>UID (VAT)-Number: </div>
             </div>
-            <div>Address: Kärntner Ring 14, Top 11, 1010 Wien, Austria</div>
+            <div>Address: БЪЛГАРИЯ, гр. София (1756), р-н Студентски, жк. Дървеница, бл. 32, ап. офис - партер</div>
           </div>
         </div>
         <div className="flex items-center w-full md:w-72 mt-12 md:mt-0">
@@ -38,7 +38,7 @@ const Imprint = () => {
               <div>Geschäftsführer</div>
             </div>
             <div className="mb-2 mt-2">E-mail: cob@finhubfund.com</div>
-            <div>Phone: +43 1 4170133</div>
+            <div>Phone: +359 89 5733067</div>
           </div>
         </div>
         <div></div>
