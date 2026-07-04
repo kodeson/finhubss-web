@@ -103,17 +103,17 @@ const ModalContactUs = (props: any) => {
                 src={`${router.basePath}/icons/icon-phone.svg`}
                 alt="phone"
               />
-              <p style={styles.footerElemText}>+43 1 4170133</p>
+              <p style={styles.footerElemText}>+359 89 5733067</p>
             </div>
 
             <div style={styles.footerElem}>
               <img src={`${router.basePath}/icons/icon-mail.svg`} alt="phone" />
-              <p style={styles.footerElemText}>info@finhubss.com</p>
+              <p style={styles.footerElemText}>prostoresoftware@gmail.com</p>
             </div>
 
             <div style={styles.footerElem}>
               <img src={`${router.basePath}/icons/icon-in.svg`} alt="phone" />
-              <p style={styles.footerElemText}>FINHUB AC GmbH & Co KG</p>
+              <p style={styles.footerElemText}>ProStor Software Ltd</p>
             </div>
 
             <div style={styles.footerElem}>
@@ -122,7 +122,7 @@ const ModalContactUs = (props: any) => {
                 alt="phone"
               />
               <p style={styles.footerElemText}>
-                Beatrixgasse 27, 1030 Wien, Austria
+                БЪЛГАРИЯ, гр. София (1756), р-н Студентски, жк. Дървеница, бл. 32
               </p>
             </div>
           </div>
