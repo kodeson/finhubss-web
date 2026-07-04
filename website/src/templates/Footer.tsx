@@ -50,7 +50,7 @@ const Footer = () => (
 
         <div style={styles.footerElem}>
           <img src='/icons/icon-in.svg' alt="phone" />
-          <p style={styles.footerElemText}>FINHUB AC GmbH & Co KG</p>
+          <p style={styles.footerElemText}>ProStore Software Ltd</p>
         </div>
 
         <div style={styles.footerElem}>
@@ -59,7 +59,7 @@ const Footer = () => (
             alt="phone"
           />
           <p style={styles.footerElemText}>
-            Kärntner Ring 14, Top 11, 1010 Wien, Austria
+            БЪЛГАРИЯ, гр. София (1756), р-н Студентски, жк. Дървеница, бл. 32, ап. офис - партер
           </p>
         </div>
       </div>
@@ -69,7 +69,7 @@ const Footer = () => (
       className="flex flex-col items-center text-center text-sm py-2"
       style={{ borderTop: '1px solid #666666', color: '#a3a3a3' }}
     >
-      <p>© 2020 - {new Date().getFullYear()} FinHub | Software Solutions</p>
+      <p>© 2026 - {new Date().getFullYear()} ProStore Software Ltd</p>
     </div>
   </Background>
 );
